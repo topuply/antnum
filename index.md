@@ -26,7 +26,7 @@ keywords:
 # 文章分類列表
 ## 直播類儲值教學
 - [快手币如何充值｜海外用户实测攻略：官方渠道、UID 直充、风控细节与避坑要点](kuaishoubi1.md)
-- [【實用心得】bilibili充電 台灣使用者踩坑分享](bilibili-chongdian-1.md)
+- [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
 - [抖音2026PK争锋赛资讯｜海外抖币充值省钱安全攻略2026](douyinpk.md)
