@@ -29,7 +29,7 @@ keywords:
 - [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
-- [台灣用戶抖音儲值便捷的方式有哪些？大陸抖音儲值攻略](douyin-chuzhi4.md)
+- [ANTNUM 蚂蚁充值｜海外抖音充值 抖音储值金秋赛优惠攻略](antnum1.md)
 - [抖音儲值抖幣失敗怎麼辦？台灣常見問題完整解決攻略](doubi1.md)
 
 ## 影音/社群平台儲值教學
