@@ -28,7 +28,7 @@ keywords:
 - [快手币如何充值｜海外用户实测攻略：官方渠道、UID 直充、风控细节与避坑要点](kuaishoubi1.md)
 - [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
-- [台幣可以直接抖音儲值嗎？海外使用者抖音儲值完整攻略](douyin-chuzhi3.md)
+- [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
 - [ANTNUM 蚂蚁充值｜海外抖音充值 抖音储值金秋赛优惠攻略](antnum1.md)
 - [抖音儲值抖幣失敗怎麼辦？台灣常見問題完整解決攻略](doubi1.md)
 
