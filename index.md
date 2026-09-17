@@ -2,19 +2,21 @@
 layout: home
 title: ANTNUM 海外儲值攻略部落格
 lang: zh-TW
-description: 專為台灣、香港、新加坡海外華人整理國服APP、遊戲跨境儲值完整教學，抖音、虎牙、快手、小紅書、B站、燕雲十六聲安全代儲避坑指南
+description: 專為台灣、香港、新加坡海外華人整理海外充值攻略、遊戲跨境儲值完整教學，抖音、虎牙、快手、小紅書、B站、燕雲十六聲安全代儲值避坑指南
 keywords:
   - 台灣海外儲值
-  - 海外儲值
-  - ANTNUM螞蟻充值
-  - 抖音抖幣海外儲值
+  - 海外充值
+  - bilibili 充電
+  - 抖音充值
   - 抖音儲值
+  - 陸抖儲值
+  - 大陸抖音儲值
 ---
 
 # <span style="color:#0066ee;">antnum</span>
 ## 海外華人跨境儲值攻略部落格
 
-歡迎來到本站！ANTNUM 螞蟻數字專服務旅居台灣、港澳、東南亞海外使用者，解決國服[抖音](https://www.antnum.com/goods/info/douyin)、[虎牙](https://www.antnum.com/goods/info/hyzb)、[快手](https://www.antnum.com/goods/info/kszb)、[B站](https://www.antnum.com/goods/info/bilibili)、[Bigo](https://www.antnum.com/goods/info/bigolive)、手遊儲值支付受限、風控封號、手續費過高等常見難題。
+歡迎來到本站！ANTNUM 螞蟻充值專服務旅居台灣、港澳、東南亞海外使用者，解決國服[抖音](https://www.antnum.com/goods/info/douyin)、[虎牙](https://www.antnum.com/goods/info/hyzb)、[快手](https://www.antnum.com/goods/info/kszb)、[B站](https://www.antnum.com/goods/info/bilibili)、[Bigo](https://www.antnum.com/goods/info/bigolive)、手遊儲值支付受限、風控封號、手續費過高等常見難題。
 
 本站收錄全系列親測實戰教學，教你分辨黑卡詐騙管道、降低帳號風控風險，不用託親友代充，在地貨幣即可快速完成直充，實現海外「儲值自由」。
 
@@ -25,7 +27,7 @@ keywords:
 👉 [前往海外充值完整攻略(支持翻页)](page1.md)
 # 文章分類列表
 ## 直播類儲值教學
-- [快手币如何充值｜海外用户实测攻略：官方渠道、UID 直充、风控细节与避坑要点](kuaishoubi1.md)
+- [海外快手币如何充值｜第三方海外充值平台实操教程](kuaishou-pingtai.md)
 - [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
