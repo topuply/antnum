@@ -10,6 +10,7 @@
 - [异环1.1下半卡池卡厄斯抽取建议｜海外异环安全储值平台推荐-ANTNUM](yihuan.md)
 - [海外抖音鑽石儲值完整步驟｜台灣使用者專屬操作教學](douyinchuzhi1.md)
 - [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
+- [海外快手币如何充值｜第三方海外充值平台实操教程](kuaishou-pingtai.md)
   
 頁面導航：
 第1頁 | [第2頁](page2.md) |  [第3頁](page3.md) 
