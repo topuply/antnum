@@ -32,7 +32,7 @@ keywords:
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
 - [ANTNUM 蚂蚁充值｜海外抖音充值 抖音储值金秋赛优惠攻略](antnum1.md)
-- [抖音儲值抖幣失敗怎麼辦？台灣常見問題完整解決攻略](doubi1.md)
+- [台灣用戶陸版抖音抖幣儲值完整攻略｜親身測試與避坑心得](douyin-chuzhi5.md)
 
 ## 影音/社群平台儲值教學
 - [人在海外電腦常上線，小紅書薯幣網頁版儲值管道教學](article3.md)
