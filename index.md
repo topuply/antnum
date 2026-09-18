@@ -27,7 +27,7 @@ keywords:
 👉 [前往海外充值完整攻略(支持翻页)](page1.md)
 # 文章分類列表
 ## 直播類儲值教學
-- [海外快手币如何充值｜第三方海外充值平台实操教程](kuaishou-pingtai.md)
+- [2026 台灣大陸抖音儲值完整攻略｜超商 / 信用卡 / Line Pay 秒充！避坑 + 省錢技巧一次看](daludouyin-chuzhi.md)
 - [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
 - [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
 - [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
