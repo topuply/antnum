@@ -1,8 +1,7 @@
 name: Generate sitemap
 on:
   push:
-    branches: [ main ] # 改成你的主分支，一般main或者master
-
+    branches: [ main ]
 permissions:
   contents: write
 jobs:
@@ -12,15 +11,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 需要完整git历史读取lastmod
-
+          fetch-depth: 0
       - name: Generate sitemap.xml
         uses: guimauvedigital/generate-sitemap@v1
         with:
-          base_url: "https://topuply.github.io/antnum/" # ⚠️改成你的网站域名
+          base_url: "https://topuply.github.io/antnum" # ✅ 移除末尾斜線，避免雙斜線URL
           file_extensions: "md,html"
           sitemap_path: "./sitemap.xml"
-
+          # 新增參數：只輸出日期，捨棄時間，解決lastmod格式問題
+          lastmod_date_only: true
       - name: Commit & Push sitemap
         run: |
           git config --global user.name "github-actions[bot]"
