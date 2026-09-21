@@ -15,11 +15,20 @@ jobs:
       - name: Generate sitemap.xml
         uses: guimauvedigital/generate-sitemap@v1
         with:
-          base_url: "https://topuply.github.io/antnum" # ✅ 移除末尾斜線，避免雙斜線URL
+          base_url: "https://topuply.github.io/antnum" # 無末尾斜線，避免雙斜線URL
           file_extensions: "md,html"
           sitemap_path: "./sitemap.xml"
-          # 新增參數：只輸出日期，捨棄時間，解決lastmod格式問題
-          lastmod_date_only: true
+
+      # ========== 新增：清理 sitemap ==========
+      - name: Clean sitemap content
+        run: |
+          # 移除lastmod中T之後的時間時區
+          sed -i 's/T.*Z//g' sitemap.xml
+          # 刪除 changefreq 整行
+          sed -i '/<changefreq>.*<\/changefreq>/d' sitemap.xml
+          # 刪除 priority 整行
+          sed -i '/<priority>.*<\/priority>/d' sitemap.xml
+
       - name: Commit & Push sitemap
         run: |
           git config --global user.name "github-actions[bot]"
