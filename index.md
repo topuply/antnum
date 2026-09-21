@@ -29,7 +29,7 @@ keywords:
 ## 直播類儲值教學
 - [2026 台灣大陸抖音儲值完整攻略｜超商 / 信用卡 / Line Pay 秒充！避坑 + 省錢技巧一次看](daludouyin-chuzhi.md)
 - [台灣用戶大陸抖音怎麼儲值？常見失敗原因、管道比較與風控避坑完整教學](dalu-douyin1.md)
-- [bilibili 充值 UID注意事項｜海外使用者乾貨分享](bilibili-chongzhi1.md)
+- [台灣用戶抖音充值｜新人福利、每日一單、直降 8% 優惠選哪一種？乾貨分享](douyin-chuzhi6.md)
 - [大陸抖音 UID 代儲值教學｜海外使用者查詢 UID 與抖幣儲值攻略](douyin-uid.md)
 - [ANTNUM 蚂蚁充值｜海外抖音充值 抖音储值金秋赛优惠攻略](antnum1.md)
 - [台灣用戶陸版抖音抖幣儲值完整攻略｜親身測試與避坑心得](douyin-chuzhi5.md)
