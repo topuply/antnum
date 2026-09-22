@@ -15,6 +15,7 @@
 - [2026 台灣大陸抖音儲值完整攻略｜超商 / 信用卡 / Line Pay 秒充！避坑 + 省錢技巧一次看](daludouyin-chuzhi.md)
 - [bilibili 充電完整攻略｜B 幣、電池、大會員差異一次看懂【台灣香港用戶】](bilibili-chongzhi1.md)
 - [台灣用戶抖音充值｜新人福利、每日一單、直降 8% 優惠選哪一種？乾貨分享](douyin-chuzhi6.md)
+- [哪個抖音儲值網頁比較安全不會被騙？實測挑選教學](douyin1.md)
   
 頁面導航：
 第1頁 | [第2頁](page2.md) |  [第3頁](page3.md) 
