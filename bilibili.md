@@ -11,6 +11,8 @@ keywords: 嗶哩嗶哩儲值，ANTNUM 螞蟻儲值，台灣 B 站 儲值，B 站
 
 身邊不少同好都在找穩定、不用大陸手機號就能處理的方式，這篇就把實測過的方法和踩過的坑整理出來。
 
+<img style="max-width:100% !important;height:auto !important;" alt="嗶哩嗶哩儲值" src="https://github.com/user-attachments/assets/042bf03d-7c34-4a4e-95d6-3598fe4ccaee" />
+
 ## 先搞清楚：你要儲值的是哪一種？
 
 很多人一開始會搞混，買錯東西，這邊簡單區分：
