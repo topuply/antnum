@@ -12,6 +12,7 @@
 - [台灣嗶哩嗶哩儲值攻略,ANTNUM 螞蟻儲值怎麼充？B 幣、電池、大會員教學](bilibili.md)
 - [ANTNUM 陸抖儲值、台灣用戶大陸抖音儲值實測心得](ludou.md)
 - [王者榮耀近期活動與海外儲值攻略｜安卓 iOS 儲值方式整理](wangzhe.md)
+- [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 
   
 頁面導航：
