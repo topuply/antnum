@@ -29,7 +29,7 @@ keywords:
 ## 直播類儲值教學
 - [大陸抖音儲值管道推薦｜ANTNUM 螞蟻充值雙節優惠每日領](daludouyin.md)
 - [ANTNUM 陸抖儲值、台灣用戶大陸抖音儲值實測心得](ludou.md)
-- [台灣用戶抖音充值｜新人福利、每日一單、直降 8% 優惠選哪一種？乾貨分享](douyin-chuzhi6.md)
+- [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 - [第三方抖音儲值平台會不會封號？ANTNUM 抖音儲值風險與未到帳處理攻略](daludouyin1.md)
 - [抖币充值渠道推荐｜ANTNUM 蚂蚁充值双节优惠券每日可领](doubi2.md)
 - [台灣用戶陸版抖音抖幣儲值完整攻略｜親身測試與避坑心得](douyin-chuzhi5.md)
