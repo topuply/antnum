@@ -39,6 +39,7 @@ keywords:
 - [海外B站電池儲值會被鎖帳嗎？安全代儲方式說明](article4.md)
 - [bilibili 充電完整攻略｜B 幣、電池、大會員差異一次看懂【台灣香港用戶】](bilibili-chongzhi1.md)
 - [台灣嗶哩嗶哩儲值攻略,ANTNUM 螞蟻儲值怎麼充？B 幣、電池、大會員教學](bilibili.md)
+- [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
 
 ## 手遊專區攻略
 - [异环1.1下半卡池卡厄斯抽取建议｜海外异环安全储值平台推荐-ANTNUM](yihuan.md)
