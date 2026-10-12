@@ -14,6 +14,7 @@
 - [王者榮耀近期活動與海外儲值攻略｜安卓 iOS 儲值方式整理](wangzhe.md)
 - [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 - [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
+- [大陸抖音儲值怎麼充？台灣用戶螞蟻儲值、抖音幣、抖音鑽石充值完整教學](douyinbi.md)
 
   
 頁面導航：
