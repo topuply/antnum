@@ -30,7 +30,7 @@ keywords:
 - [大陸抖音儲值管道推薦｜ANTNUM 螞蟻充值雙節優惠每日領](daludouyin.md)
 - [ANTNUM 陸抖儲值、台灣用戶大陸抖音儲值實測心得](ludou.md)
 - [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
-- [第三方抖音儲值平台會不會封號？ANTNUM 抖音儲值風險與未到帳處理攻略](daludouyin1.md)
+- [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
 - [抖币充值渠道推荐｜ANTNUM 蚂蚁充值双节优惠券每日可领](doubi2.md)
 - [大陸抖音儲值怎麼充？台灣用戶螞蟻儲值、抖音幣、抖音鑽石充值完整教學](douyinbi.md)
 
