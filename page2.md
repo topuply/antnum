@@ -17,6 +17,7 @@
 - [大陸抖音儲值怎麼充？台灣用戶螞蟻儲值、抖音幣、抖音鑽石充值完整教學](douyinbi.md)
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
 - [海外 bilibili 充值｜海外信用卡可以直接充 bilibili 電池嗎 ANTNUM](bilibili-cz.md)
+- [海外想给小红书充值？地区锁定无法付款，跨境充值完整实测](xiaohongshu.md)
 
   
 頁面導航：
