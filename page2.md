@@ -1,4 +1,4 @@
-# 攻略列表 - 第1頁
+# 攻略列表 - 第2頁
 - [海外可靠代儲平台怎麼挑？支援 ID 直充的管道選購心得](chongzhi.md)
 - [海外华人抖币充值优惠攻略｜靠谱抖音充值海外平台推荐](doubi.md)
 - [台灣用戶抖音儲值省錢攻略｜ID直充享長期優惠，超商刷卡都能付](douyinchuzhi.md)
@@ -18,6 +18,7 @@
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
 - [海外 bilibili 充值｜海外信用卡可以直接充 bilibili 電池嗎 ANTNUM](bilibili-cz.md)
 - [海外想给小红书充值？地区锁定无法付款，跨境充值完整实测](xiaohongshu.md)
+- [苹果礼品卡充值｜多地区 Apple 礼品卡密购买，自动发兑换码-ANTNUM](p3-pingguoka.md)
 
   
 頁面導航：
