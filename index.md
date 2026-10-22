@@ -46,3 +46,6 @@ keywords:
 - [异环1.1下半卡池卡厄斯抽取建议｜海外异环安全储值平台推荐-ANTNUM](yihuan.md)
 - [三角洲行动群星新季节攻略｜新武器、新外观、藏品合理充值指南](delta-stars-season.md)
 - [王者榮耀近期活動與海外儲值攻略｜安卓 iOS 儲值方式整理](wangzhe.md)
+
+## 點卡攻略
+- [苹果礼品卡充值｜多地区 Apple 礼品卡密购买，自动发兑换码-ANTNUM](p3-pinguoka.md)
