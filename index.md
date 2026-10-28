@@ -28,7 +28,7 @@ keywords:
 # 文章分類列表
 ## 直播類儲值教學
 - [抖音充值怎么避开代充陷阱？抖币充值海外渠道选购指南](p1-douyin.md)
-- [ANTNUM 陸抖儲值、台灣用戶大陸抖音儲值實測心得](ludou.md)
+- [ANTNUM 海外抖音充值有哪些钻石面额？抖音钻石跨境储值选购指南](haiwai-douyin-zuanshi.md)
 - [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
 - [抖币充值渠道推荐｜ANTNUM 蚂蚁充值双节优惠券每日可领](doubi2.md)
