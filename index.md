@@ -27,7 +27,7 @@ keywords:
 👉 [前往海外充值完整攻略(支持翻页)](page1.md)
 # 文章分類列表
 ## 直播類儲值教學
-- [大陸抖音儲值管道推薦｜ANTNUM 螞蟻充值雙節優惠每日領](daludouyin.md)
+- [抖音充值怎么避开代充陷阱？抖币充值海外渠道选购指南](p1-douyin.md)
 - [ANTNUM 陸抖儲值、台灣用戶大陸抖音儲值實測心得](ludou.md)
 - [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
