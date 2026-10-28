@@ -10,6 +10,7 @@
 - [台灣用戶抖音儲值便捷的方式有哪些？大陸抖音儲值攻略](douyin-chuzhi4.md)
 - [ANTNUM 蚂蚁充值｜海外抖音充值 抖音储值金秋赛优惠攻略](antnum1.md)
 - [抖音充值怎么避开代充陷阱？抖币充值海外渠道选购指南](p1-douyin.md)
+- [ANTNUM 海外抖音充值有哪些钻石面额？抖音钻石跨境储值选购指南](haiwai-douyin-zuanshi.md)
 
 
   
