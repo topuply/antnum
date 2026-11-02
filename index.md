@@ -37,7 +37,7 @@ keywords:
 ## 影音/社群平台儲值教學
 - [人在海外電腦常上線，小紅書薯幣網頁版儲值管道教學](article3.md)
 - [海外想给小红书充值？地区锁定无法付款，跨境充值完整实测](xiaohongshu.md)
-- [bilibili 充電完整攻略｜B 幣、電池、大會員差異一次看懂【台灣香港用戶】](bilibili-chongzhi1.md)
+- [马来西亚、新加坡、美国、加拿大、意大利怎么给快手充值？海外快币充值攻略](quanqiu-kuaibi.md)
 - [台灣嗶哩嗶哩儲值攻略,ANTNUM 螞蟻儲值怎麼充？B 幣、電池、大會員教學](bilibili.md)
 - [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
 - [海外 bilibili 充值｜海外信用卡可以直接充 bilibili 電池嗎 ANTNUM](bilibili-cz.md)
