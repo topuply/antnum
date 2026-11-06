@@ -31,7 +31,7 @@ keywords:
 - [ANTNUM 海外抖音充值有哪些钻石面额？抖音钻石跨境储值选购指南](haiwai-douyin-zuanshi.md)
 - [大陸抖音 UID 代儲值心得｜ANTNUM 使用體驗、到帳速度與三端操作說明](douyinuid.md)
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
-- [抖币充值渠道推荐｜ANTNUM 蚂蚁充值双节优惠券每日可领](doubi2.md)
+- [海外抖音充值为什么没法直接在抖音 App 里面充值？实测对比第三方充值渠道](-douyin-haiwai.md)
 - [大陸抖音儲值怎麼充？台灣用戶螞蟻儲值、抖音幣、抖音鑽石充值完整教學](douyinbi.md)
 
 ## 影音/社群平台儲值教學
