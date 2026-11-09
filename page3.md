@@ -13,6 +13,7 @@
 - [ANTNUM 海外抖音充值有哪些钻石面额？抖音钻石跨境储值选购指南](haiwai-douyin-zuanshi.md)
 - [马来西亚、新加坡、美国、加拿大、意大利怎么给快手充值？海外快币充值攻略](quanqiu-kuaibi.md)
 - [海外抖音充值为什么没法直接在抖音 App 里面充值？实测对比第三方充值渠道](douyin-haiwai.md)
+- [抖音钻石充值到底是什么？聊聊抖币改名之后，账号显示差异和充值避坑](douyinzuanshi-chongzhi.md)
 
 
   
