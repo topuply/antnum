@@ -1,11 +1,11 @@
-<!--
+---
 title: 苹果抖音充值手续费太高,靠谱充值平台如何选？
 date: 2026-06-09
 author: ANTNUM
 lang: zh-CN
 description: iOS 用戶在抖音 App 內充值需承擔蘋果稅，價格偏高。教你分辨正規抖幣代充平台，不用帳密僅 UID 儲值，省去蘋果手續費，ANTNUM 支援全球多種海外支付，穩定到帳。
 keywords: 海外充值,抖币充值,靠谱抖音充值平台
--->
+---
 许多海外的苹果（IOS）用户因为不太相信[海外充值的渠道](https://www.antnum.com/)，所以一直在使用Apple Store支付[抖音充值](https://www.antnum.com/goods/info/douyin)，虽然这种方式对苹果用户很安全，但手续费确太贵了，长时间充值可能让许多用户有点吃不消，今天小编就分享靠谱的抖音充值平台，帮大家解决此难题。
 
 # 苹果手续费
