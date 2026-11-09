@@ -1,6 +1,6 @@
 ---
 title: 海外怎么给Bigo Live充值？需要提供bigo账号密码吗？
-date: 26.04.29
+date: 26-04-29
 author: ANTNUM
 lang: zh-CN
 description: 对于大家在海外不知道如何给bigo充值，选择无良的代充还被骗账号和钱，今天，小编就用数年的海外充值经验，把这两个问题详细讲透，按照这个流程去完成bigo充值，帮你完美避坑。
