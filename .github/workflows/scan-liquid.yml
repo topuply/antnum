@@ -1,0 +1,17 @@
+name: Scan liquid date error
+on:
+  push:
+    branches: [ main ]
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - run: |
+          gem install jekyll
+          jekyll build --dry-run 2>&1 | grep -E "Rendering|Invalid Date"
