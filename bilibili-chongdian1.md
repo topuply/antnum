@@ -2,9 +2,9 @@
 title: bilibili 充電完整攻略｜B 幣、電池、大會員差異一次看懂【台灣香港用戶】
 date: 2026-09-21
 author: ANTNUM
-lang: zh-TW
+lang: zh-CN
 description: bilibili 充電 B 幣、電池、充電、大會員差異解析，台灣香港用戶 B 站儲值教學。說明 B 幣用途、電池與充電區別、iOS 內購蘋果稅問題，海外充值管道與常見踩坑 QA。
-keywords:bilibili 充電，B 站充電，B 站電池，B 站大會員，B 站儲值，B 站海外充值，ANTNUM
+keywords: bilibili 充電，B 站充電，B 站電池，B 站大會員，B 站儲值，B 站海外充值，ANTNUM
 ---
 
 很多台港小夥伴剛入坑 B 站，最容易搞混：**B 幣、電池、[bilibili 充電](https://www.antnum.com/goods/info/bilibili)、大會員**這四個東西，功能完全不一樣，用途、充值管道、成本也差很多。這篇專為台灣、香港使用者整理，看完就不會充錯。
