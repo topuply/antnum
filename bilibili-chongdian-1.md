@@ -2,7 +2,7 @@
 title: "【實用心得】bilibili充電 台灣使用者踩坑分享"
 description: "分享台灣B站使用者bilibili充電各種常見難題，解析官方付款限制、代充風險，UID直充操作實務建議。"
 keywords: "bilibili充電 台灣,B站充電海外,B站UID直充,ANTNUM螞蟻充值"
-lastmod: 2026-09-01
+date: 2026-09-01
 ---
 
 # 【實用心得】bilibili充電 台灣使用者踩坑分享
