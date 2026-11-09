@@ -1,6 +1,7 @@
 ---
 lang: zh-TW
 Title: 台灣怎麼bilibili 充值？B幣、大會員、電池常見問題一次說明
+date: 2026-04-28
 Keywords: B站儲值,B站B幣儲值,bilibili充值,B站電池儲值,B站儲值失敗
 Description: 很多台灣朋友想買B站大會員、B幣、直播電池，但官方付款不支援台灣信用卡。這篇整理bilibili充值的常見疑問、差異和避坑重點。
 ---
