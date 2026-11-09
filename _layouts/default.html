@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<!-- 调试输出：打印当前正在渲染的文件路径 + 所有时间字段 -->
+<p style="display:none;">DEBUG_PATH: {{ page.path }}</p>
+<p style="display:none;">DEBUG_DATE: {{ page.date }}</p>
+<p style="display:none;">DEBUG_EXPIRE: {{ page.expire_date }}{{ page.deadline }}{{ page.end_time }}</p>
+
+{{ content }}
