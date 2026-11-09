@@ -1,6 +1,6 @@
 ---
-layout: home
 title: ANTNUM 海外儲值攻略部落格
+date: 2026-04-28
 lang: zh-TW
 description: 專為台灣、香港、新加坡海外華人整理海外充值攻略、遊戲跨境儲值完整教學，抖音、虎牙、快手、小紅書、B站、燕雲十六聲安全代儲值避坑指南
 keywords:
