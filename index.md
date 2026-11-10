@@ -27,7 +27,7 @@ keywords:
 👉 [前往海外充值完整攻略(支持翻页)](page1.md)
 # 文章分類列表
 ## 直播類儲值教學
-- [抖音充值怎么避开代充陷阱？抖币充值海外渠道选购指南](p1-douyin.md)
+- [抖音金秋地区赛实测｜嘉年华高峰期抖音充值不容易掉单的平台分享](douyin-jianianhua.md)
 - [ANTNUM 海外抖音充值有哪些钻石面额？抖音钻石跨境储值选购指南](haiwai-douyin-zuanshi.md)
 - [抖音钻石充值到底是什么？聊聊抖币改名之后，账号显示差异和充值避坑](douyinzuanshi-chongzhi.md)
 - [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
