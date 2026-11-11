@@ -15,6 +15,7 @@
 - [海外抖音充值为什么没法直接在抖音 App 里面充值？实测对比第三方充值渠道](douyin-haiwai.md)
 - [抖音钻石充值到底是什么？聊聊抖币改名之后，账号显示差异和充值避坑](douyinzuanshi-chongzhi.md)
 - [抖音金秋地区赛实测｜嘉年华高峰期抖音充值不容易掉单的平台分享](douyin-jianianhua.md)
+- [海外抖音充值一直支付失败？多年海外居住玩家实测可行方案](haiwai-douyin.md)
 
 
   
