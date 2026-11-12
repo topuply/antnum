@@ -40,7 +40,7 @@ keywords:
 - [马来西亚、新加坡、美国、加拿大、意大利怎么给快手充值？海外快币充值攻略](quanqiu-kuaibi.md)
 - [台灣嗶哩嗶哩儲值攻略,ANTNUM 螞蟻儲值怎麼充？B 幣、電池、大會員教學](bilibili.md)
 - [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
-- [海外 bilibili 充值｜海外信用卡可以直接充 bilibili 電池嗎 ANTNUM](bilibili-cz.md)
+- [海外充值小红书薯币教程｜小红书号直充，无需短信验证码-ANTNUM](xiaohongshu-shubi.md)
 
 ## 手遊專區攻略
 - [异环1.1下半卡池卡厄斯抽取建议｜海外异环安全储值平台推荐-ANTNUM](yihuan.md)
