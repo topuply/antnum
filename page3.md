@@ -247,6 +247,10 @@ description: ANTNUM 螞蟻充值海外抖音儲值、B站電池、快手快幣�
 <span class="article-item-title">海外充值小红书薯币教程｜小红书号直充，无需短信验证码-ANTNUM</span>
 <span class="article-arrow">閱讀 →</span>
 </a>
+  <a href="bbi-chongzhi.html" class="article-item">
+<span class="article-item-title">B 币充值实测｜海外 B 站储值，B 币与电池充值方式区分-ANTNUM海外充值</span>
+<span class="article-arrow">閱讀 →</span>
+</a>
 </div>
 
 <nav class="pagination-box" aria-label="文章列表分頁">
