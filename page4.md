@@ -179,6 +179,9 @@ description: ANTNUM 螞蟻充值海外抖音儲值、B站電池、快手快幣�
 <span class="article-item-title">身在海外想要抖音充值优惠，ANTNUM 的每日特惠能选吗？</span>
 <span class="article-arrow">閱讀 →</span>
 </a>
+<a href="xiaohongshu-haiwai.html" class="article-item">
+<span class="article-item-title">小红书海外充值｜薯币充值实测攻略，海外创作者充值避坑-ANTNUM海外代充</span>
+<span class="article-arrow">閱讀 →</span>
 
 </div>
 
