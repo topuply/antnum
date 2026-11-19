@@ -38,7 +38,7 @@ keywords:
 - [B 币充值实测｜海外 B 站储值，B 币与电池充值方式区分-ANTNUM海外充值](bbi-chongzhi.md)
 - [海外想给小红书充值？地区锁定无法付款，跨境充值完整实测](xiaohongshu.md)
 - [马来西亚、新加坡、美国、加拿大、意大利怎么给快手充值？海外快币充值攻略](quanqiu-kuaibi.md)
-- [台灣嗶哩嗶哩儲值攻略,ANTNUM 螞蟻儲值怎麼充？B 幣、電池、大會員教學](bilibili.md)
+- [小红书海外充值｜薯币充值实测攻略，海外创作者充值避坑-ANTNUM海外代充](xiaohongshu-haiwai.md)
 - [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
 - [海外充值小红书薯币教程｜小红书号直充，无需短信验证码-ANTNUM](xiaohongshu-shubi.md)
 
