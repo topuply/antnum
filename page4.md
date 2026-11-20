@@ -182,14 +182,18 @@ description: ANTNUM 螞蟻充值海外抖音儲值、B站電池、快手快幣�
 <a href="xiaohongshu-haiwai.html" class="article-item">
 <span class="article-item-title">小红书海外充值｜薯币充值实测攻略，海外创作者充值避坑-ANTNUM海外代充</span>
 <span class="article-arrow">閱讀 →</span>
+<a href="bzhan-dianchi.html" class="article-item">
+<span class="article-item-title">Bilibili 充值｜海外 B 币与电池区分，代充风险完整解析-AntNum 海外充值</span>
+<span class="article-arrow">閱讀 →</span>
 
 </div>
 
 <nav class="pagination-box" aria-label="文章列表分頁">
-<a href="page2.html" class="page-btn">← 上一頁</a>
+<a href="page3.html" class="page-btn">← 上一頁</a>
 <div class="page-numbers">
 <a href="page1.html" class="page-btn">1</a>
 <a href="page2.html" class="page-btn">2</a>
+<a href="page3.html" class="page-btn">3</a>
 <a href="page3.html" class="page-btn active">3</a>
 </div>
 <a href="./" class="page-btn">回首頁</a>
