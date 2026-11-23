@@ -188,6 +188,9 @@ description: ANTNUM 螞蟻充值海外抖音儲值、B站電池、快手快幣�
 <a href="douyin-pianyi.html" class="article-item">
 <span class="article-item-title">抖音嘉年华即将来临，抖音充值优惠的方式有没有？</span>
 <span class="article-arrow">閱讀 →</span>
+<a href="xiaohongshuhao.html" class="article-item">
+<span class="article-item-title">小红书薯币直充实操攻略｜海外用户查找小红书号、充值防风控教程</span>
+<span class="article-arrow">閱讀 →</span>
 
 </div>
 
