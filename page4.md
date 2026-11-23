@@ -185,6 +185,9 @@ description: ANTNUM 螞蟻充值海外抖音儲值、B站電池、快手快幣�
 <a href="bzhan-dianchi.html" class="article-item">
 <span class="article-item-title">Bilibili 充值｜海外 B 币与电池区分，代充风险完整解析-AntNum 海外充值</span>
 <span class="article-arrow">閱讀 →</span>
+<a href="douyin-pianyi.html" class="article-item">
+<span class="article-item-title">抖音嘉年华即将来临，抖音充值优惠的方式有没有？</span>
+<span class="article-arrow">閱讀 →</span>
 
 </div>
 
