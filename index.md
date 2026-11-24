@@ -36,7 +36,7 @@ keywords:
 
 ## 影音/社群平台儲值教學
 - [B 币充值实测｜海外 B 站储值，B 币与电池充值方式区分-ANTNUM海外充值](bbi-chongzhi.md)
-- [Bilibili 充值｜海外 B 币与电池区分，代充风险完整解析-AntNum 海外充值](bzhan-dianchi.md)
+- [B 站充值怎么更划算？海外用户实测 AntNum 蚂蚁充值 UID 直充攻略](bzhan-pianyi.md)
 - [马来西亚、新加坡、美国、加拿大、意大利怎么给快手充值？海外快币充值攻略](quanqiu-kuaibi.md)
 - [小红书海外充值｜薯币充值实测攻略，海外创作者充值避坑-ANTNUM海外代充](xiaohongshu-haiwai.md)
 - [bilibili 充電是什麼｜台灣用戶B站電池、B幣儲值攻略-ANTNUM](bzhanchongdian.md)
