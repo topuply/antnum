@@ -30,7 +30,7 @@ keywords:
 - [抖音嘉年华即将来临，抖音充值优惠的方式有没有？](douyin-pianyi.md)
 - [海外抖音充值一直支付失败？多年海外居住玩家实测可行方案](haiwai-douyin.md)
 - [抖音钻石充值到底是什么？聊聊抖币改名之后，账号显示差异和充值避坑](douyinzuanshi-chongzhi.md)
-- [螞蟻抖幣儲值划算嗎？抖音儲值套餐與到帳機制介紹-ANTNUM](mayidoubi.md)
+- [2026海外抖音充值全攻略：PayPal与海外银行卡直充平台对比及防坑指南 - AntNum](douyin-2026.md)
 - [身在海外想要抖音充值优惠，ANTNUM 的每日特惠能选吗？](douyin-youhui.md)
 - [大陸抖音儲值怎麼充？台灣用戶螞蟻儲值、抖音幣、抖音鑽石充值完整教學](douyinbi.md)
 
